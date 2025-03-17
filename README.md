@@ -42,3 +42,9 @@ The vision behind the DAO for Token Economy is to empower communities and projec
 
 - **Simple and Transparent Logic**  
   The contract is straightforward and easy to understand, making it accessible for community audits and participation.
+
+## Contract Address
+0xada37b5c8c2105c167bb042d66b967ff1219f1a4
+![image](https://github.com/user-attachments/assets/0e6328da-5c15-4025-b2bd-303caddbee53)
+
+---
